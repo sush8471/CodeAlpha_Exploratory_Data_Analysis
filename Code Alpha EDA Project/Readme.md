@@ -1,6 +1,6 @@
-# 📊 Netflix EDA Project – CodeAlpha Internship Task 2
+# 📊 Netflix EDA Project – CodeAlpha Internship Task
 
-This repository contains my submission for **Task 2: Exploratory Data Analysis (EDA)** as part of the **CodeAlpha Data Analytics Virtual Internship**.
+This repository contains my submission for **Exploratory Data Analysis (EDA)** as part of the **CodeAlpha Data Analytics Virtual Internship**.
 
 ---
 
